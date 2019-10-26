@@ -1,3 +1,4 @@
+console.log('it is also working')
 let restaurant;
 var newMap;
 
@@ -22,7 +23,7 @@ initMap = () => {
         scrollWheelZoom: false
       });
       L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.jpg70?access_token={mapboxToken}', {
-        mapboxToken: '<your MAPBOX API KEY HERE>',
+        mapboxToken: 'pk.eyJ1IjoiZGVieWdhbHNlciIsImEiOiJjazI0dnhpdWcwbmVjM2pxbWFkbHRtYXF1In0.3pFLcvP4Yu5MOakH1fH2mQ',
         maxZoom: 18,
         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
           '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
