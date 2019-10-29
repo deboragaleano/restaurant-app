@@ -10,11 +10,11 @@ self.addEventListener('install', event =>
         caches.open(staticCacheName).then( cache => {
             return cache.addAll([
                 '/',
-                'css/styles.js', 
+                'css/styles.css', 
                 'js/dbhelper.js', 
                 'js/main.js', 
-                'js/register-sw.js', 
                 'js/restaurant_info.js', 
+                'js/register-sw.js', 
                 'data/restaurants.json' 
             ])
         })
