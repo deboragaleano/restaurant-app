@@ -22,5 +22,5 @@ This is a mobile-ready website for local restaurant reviews and information. The
 
 ##  Acknowledgments/Resources
 -   Udacity  [Webinar](https://www.youtube.com/watch?v=dMutLUzVbIA&t=0s&list=PLKC17wty6rS1XVZbRlWjYU0WVsIoJyO3s&index=5)
--   Alexandro Perez: for the  [Service Worker](https://alexandroperez.github.io/mws-walkthrough/?1.23.registering-service-worker-and-caching-static-assets](https://alexandroperez.github.io/mws-walkthrough/?1.23.registering-service-worker-and-caching-static-assets) reference.
+-   Alexandro Perez: for the  [Service Worker](https://alexandroperez.github.io/mws-walkthrough/?1.23.registering-service-worker-and-caching-static-assets) reference.
   
