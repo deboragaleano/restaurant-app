@@ -1,5 +1,3 @@
-console.log('everything is working, I think')
-
 let restaurants,
   neighborhoods,
   cuisines

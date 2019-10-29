@@ -1,4 +1,3 @@
-console.log('it is also working')
 let restaurant;
 var newMap;
 
